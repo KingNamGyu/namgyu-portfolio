@@ -52,19 +52,19 @@ const About = () => {
                 <h2>광주광역시 북구</h2>
               </Item>
             </Grid>
-            <Grid item xs={4}>
+            <Grid className="grid" item xs={4}>
               <Item>
                 <h1>연락처</h1>
                 <h2>010-3125-8140</h2>
               </Item>
             </Grid>
-            <Grid item xs={4}>
+            <Grid className="grid" item xs={4}>
               <Item>
                 <h1>이메일</h1>
                 <h4>wkfkem@naver.com</h4>
               </Item>
             </Grid>
-            <Grid item xs={4}>
+            <Grid className="grid" item xs={4}>
               <Item>
                 <h1>학력</h1>
                 <h3>영남이공대학교(컴퓨터정보학과)</h3>
