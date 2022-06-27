@@ -246,6 +246,9 @@ h2 {
   width: 250px;
   border-radius: 200px;
 }
+.grid{
+  padding-top: 20px;
+}
 @media screen and (max-width: 53rem) {
   .nav-bar {
     flex-direction: column;
@@ -295,7 +298,7 @@ h2 {
   .about h3{
     color: rgb(72, 72, 72);
     font-weight: 500;
-    font-size: 6px;
+    font-size: 0.1px;
     word-break:keep-all;
   }
   .about h4{
