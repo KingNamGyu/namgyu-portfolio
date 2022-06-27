@@ -230,8 +230,7 @@ h2 {
 .about h3{
   color: rgb(72, 72, 72);
   font-weight: 500;
-  font-size: 15px;
-  word-break:keep-all;
+  font-size: 4px;
 }
 .about h4{
   color: rgb(72, 72, 72);
@@ -299,7 +298,6 @@ h2 {
     color: rgb(72, 72, 72);
     font-weight: 500;
     font-size: 0.1px;
-    word-break:keep-all;
   }
   .about h4{
     color: rgb(72, 72, 72);
