@@ -36,39 +36,51 @@ const About = () => {
             </Grid>
             <Grid item xs={4}>
               <Item>
+              <div className="grid-con">
                 <h1>이름</h1>
                 <h2>김남규</h2>
+                </div>
               </Item>
             </Grid>
             <Grid item xs={4}>
               <Item>
+              <div className="grid-con">
                 <h1>생년월일</h1>
                 <h2>1995.05.06</h2>
+                </div>
               </Item>
             </Grid>
             <Grid item xs={4}>
               <Item>
+              <div className="grid-con">
                 <h1>주소지</h1>
                 <h2>광주광역시 북구</h2>
+                </div>
               </Item>
             </Grid>
             <Grid className="grid" item xs={4}>
               <Item>
-                <h1>연락처</h1>
-                <h2>010-3125-8140</h2>
+                <div className="grid-con">
+                  <h1>연락처</h1>
+                  <h2>010-3125-8140</h2>
+                </div>
               </Item>
             </Grid>
             <Grid className="grid" item xs={4}>
               <Item>
-                <h1>이메일</h1>
-                <h4>wkfkem@naver.com</h4>
+                <div className="grid-con">
+                  <h1>이메일</h1>
+                  <h4>wkfkem@naver.com</h4>
+                </div>
               </Item>
             </Grid>
             <Grid className="grid" item xs={4}>
               <Item>
-                <h1>학력</h1>
-                <h3>영남이공대학교</h3>
-                <h3>(컴퓨터정보학과)</h3>
+                <div className="grid-con">
+                  <h1>학력</h1>
+                  <h3>영남이공대학교</h3>
+                  <h3>(컴퓨터정보학과)</h3>
+                </div>
               </Item>
             </Grid>
           </Grid>
