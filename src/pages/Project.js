@@ -34,7 +34,7 @@ const Project = () => {
           <Container maxWidth="md" className="pro-con">
             <Box
               className="pro-box"
-              sx={{ bgcolor: "rgb(87, 87, 87);", height: "76vh" }}
+              sx={{ bgcolor: "rgb(87, 87, 87);", padding: "30px 10px"}}
             >
               <Box sx={{ flexGrow: 1 }}>
                 <Grid container spacing={2}>
@@ -50,7 +50,7 @@ const Project = () => {
                         />
                       </a>
                       <a
-                        href="https://github.com/KingNamGyu/namgyu-portfolio"
+                        href="https://github.com/KingNamGyu/namgyu-netflix"
                         target="_blank"
                       >
                         <div className="img-list">
@@ -75,8 +75,8 @@ const Project = () => {
                       <h2>주요기능</h2>
                       <h3>●반응형</h3>
                       <h2>URL</h2>
-                      <a href="https://gyupofol.netlify.app/" target="_blank">
-                        <h3>https://gyupofol</h3>
+                      <a href="https://gyunetflix.netlify.app/" target="_blank">
+                        <h3>https://gyunetflix</h3>
                       </a>
                     </Item>
                   </Grid>
@@ -90,7 +90,7 @@ const Project = () => {
           <Container maxWidth="md" className="pro-con">
             <Box
               className="pro-box"
-              sx={{ bgcolor: "rgb(87, 87, 87);", height: "76vh" }}
+              sx={{ bgcolor: "rgb(87, 87, 87);", padding: "30px 10px" }}
             >
               <Box sx={{ flexGrow: 1 }}>
                 <Grid container spacing={2}>
@@ -158,7 +158,7 @@ const Project = () => {
           <Container maxWidth="md" className="pro-con">
             <Box
               className="pro-box"
-              sx={{ bgcolor: "rgb(87, 87, 87);", height: "76vh" }}
+              sx={{ bgcolor: "rgb(87, 87, 87);", padding: "30px 10px" }}
             >
               <Box sx={{ flexGrow: 1 }}>
                 <Grid container spacing={2}>
@@ -220,7 +220,7 @@ const Project = () => {
           <Container maxWidth="md" className="pro-con">
             <Box
               className="pro-box"
-              sx={{ bgcolor: "rgb(87, 87, 87);", height: "76vh" }}
+              sx={{ bgcolor: "rgb(87, 87, 87);", padding: "30px 10px" }}
             >
               <Box sx={{ flexGrow: 1 }}>
                 <Grid container spacing={2}>
@@ -284,7 +284,7 @@ const Project = () => {
           <Container maxWidth="md">
             <Box
               className="pro-box"
-              sx={{ bgcolor: "rgb(87, 87, 87);", height: "76vh" }}
+              sx={{ bgcolor: "rgb(87, 87, 87);", padding: "30px 10px" }}
             >
               <Box sx={{ flexGrow: 1 }}>
                 <Grid container spacing={2}>
@@ -343,7 +343,7 @@ const Project = () => {
           <Container maxWidth="md" className="pro-con">
             <Box
               className="pro-box"
-              sx={{ bgcolor: "rgb(87, 87, 87);", height: "76vh" }}
+              sx={{ bgcolor: "rgb(87, 87, 87);", padding: "30px 10px" }}
             >
               <Box sx={{ flexGrow: 1 }}>
                 <Grid container spacing={2}>
