@@ -67,7 +67,8 @@ const About = () => {
             <Grid className="grid" item xs={4}>
               <Item>
                 <h1>학력</h1>
-                <h3>영남이공대학교(컴퓨터정보학과)</h3>
+                <h3>영남이공대학교</h3>
+                <h3>(컴퓨터정보학과)</h3>
               </Item>
             </Grid>
           </Grid>
@@ -79,3 +80,4 @@ const About = () => {
 };
 
 export default About;
+
