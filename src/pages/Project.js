@@ -127,7 +127,7 @@ const Project = () => {
                       <h2>개발기간</h2>
                       <h3>2022.05.~</h3>
                       <h2>사용기술</h2>
-                      <h3>React.js, Redux, Axios, CSS3</h3>
+                      <h3>React.js, Redux, Axios, REST API, Router, CSS3</h3>
                       <h2>주요기능</h2>
                       <h3>
                         ●인기 있는 영화 리스트, 최고 평점 영화 리스트, 상영
@@ -195,7 +195,7 @@ const Project = () => {
                       <h2>개발기간</h2>
                       <h3>2022.04.~</h3>
                       <h2>사용기술</h2>
-                      <h3>React.js, CSS3</h3>
+                      <h3>React.js, REST API, Router, CSS3</h3>
                       <h2>주요기능</h2>
                       <h3>●로그인&로그아웃</h3>
                       <h3>●상품 검색</h3>
@@ -259,7 +259,7 @@ const Project = () => {
                       <h2>개발기간</h2>
                       <h3>2022.04.~</h3>
                       <h2>사용기술</h2>
-                      <h3>React.js, CSS3</h3>
+                      <h3>React.js, REST API, CSS3</h3>
                       <h2>주요기능</h2>
                       <h3>
                         ●현재 위치의 날씨정보 확인 (지역, 온도, 날씨 상태)
@@ -321,7 +321,7 @@ const Project = () => {
                       <h2>개발기간</h2>
                       <h3>2022.03.~</h3>
                       <h2>사용기술</h2>
-                      <h3>HTML5, JavaScript, CSS3</h3>
+                      <h3>HTML5, JavaScript, REST API, CSS3</h3>
                       <h2>주요기능</h2>
                       <h3>●카테고리별 검색</h3>
                       <h3>●뉴스 기사 검색</h3>
