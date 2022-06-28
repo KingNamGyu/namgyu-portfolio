@@ -106,7 +106,7 @@ const Project = () => {
                         />
                       </a>
                       <a
-                        href="https://github.com/KingNamGyu/namgyu-netflix"
+                        href="https://github.com/KingNamGyu/namgyu-portfolio"
                         target="_blank"
                       >
                         <div className="img-list">
@@ -143,8 +143,8 @@ const Project = () => {
                       </h3>
                       <h3>●반응형</h3>
                       <h2>URL</h2>
-                      <a href="https://gyunetflix.netlify.app/" target="_blank">
-                        <h3>https://gyunetflix</h3>
+                      <a href="https://gyupofol.netlify.app/" target="_blank">
+                        <h3>https://gyupofol</h3>
                       </a>
                     </Item>
                   </Grid>
