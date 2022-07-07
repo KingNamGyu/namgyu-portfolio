@@ -75,8 +75,8 @@ const Project = () => {
                       <h2>주요기능</h2>
                       <h3>●반응형</h3>
                       <h2>URL</h2>
-                      <a href="https://gyunetflix.netlify.app/" target="_blank">
-                        <h3>https://gyunetflix</h3>
+                      <a href="https://gyupofol.netlify.app/" target="_blank">
+                        <h3>https://gyupofol</h3>
                       </a>
                     </Item>
                   </Grid>
@@ -143,8 +143,8 @@ const Project = () => {
                       </h3>
                       <h3>●반응형</h3>
                       <h2>URL</h2>
-                      <a href="https://gyupofol.netlify.app/" target="_blank">
-                        <h3>https://gyupofol</h3>
+                      <a href="https://gyunetflix.netlify.app//" target="_blank">
+                        <h3>https://gyunetflix</h3>
                       </a>
                     </Item>
                   </Grid>
