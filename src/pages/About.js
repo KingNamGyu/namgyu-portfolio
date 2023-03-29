@@ -54,7 +54,7 @@ const About = () => {
               <Item>
               <div className="grid-con">
                 <h1>주소지</h1>
-                <h2>광주광역시 북구</h2>
+                <h2>서울특별시 관악구</h2>
                 </div>
               </Item>
             </Grid>
