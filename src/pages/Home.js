@@ -19,7 +19,6 @@ const Home = () => {
           />
           <div className="name">-김남규-</div>
           <h1>웹 포트폴리오</h1>
-          <h2>나침반은 사람들을 올바른 길로 안내합니다.</h2>
         </div>
       </div>
       <Footer />
